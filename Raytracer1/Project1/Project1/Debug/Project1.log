@@ -1,0 +1,4 @@
+﻿  ray.cpp
+c:\users\coord 26\desktop\raytracer1\project1\project1\ray.cpp(86): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\coord 26\desktop\raytracer1\project1\project1\ray.cpp(86): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Project1.vcxproj -> C:\Users\Coord 26\Desktop\Raytracer1\Project1\Debug\Project1.exe
